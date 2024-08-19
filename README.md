@@ -17,6 +17,6 @@ FullStack Developer
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-amm-Pranav&theme=dark&show_icons=true&&hide=issues,contribs)
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranav-itsmee&theme=dark&show_icons=true&&hide=issues,contribs)
 
-![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=I-amm-Pranav&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
+![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav-itsmee&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
