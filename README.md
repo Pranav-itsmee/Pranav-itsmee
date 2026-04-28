@@ -29,7 +29,7 @@ public class Pranav {
         "Clear JLPT N2"
     };
 }
-` ` `
+```
 
 ---
 
@@ -145,7 +145,7 @@ public class Pranav {
 
 ## 🇯🇵 Currently Learning
 
-` ` `
+```
 日本語 (Japanese) — JLPT Journey
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   N5  ████████████  ✅ Completed!
@@ -154,7 +154,8 @@ public class Pranav {
   N2  ░░░░░░░░░░░░  Dream goal 🎯
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Goal: IT job in Japan 🗾
-` ` `
+```
+
 
 ---
 
@@ -165,8 +166,3 @@ Goal: IT job in Japan 🗾
 ⭐ Feel free to explore my repos and drop a star if something catches your eye!
 
 </div>
-```
-
----
-
-**Note:** The ` ` ` in the code blocks above are shown with spaces so they don't break the formatting here. When you paste into your `README.md`, make sure those are actual triple backticks ` ``` ` with no spaces. The two code blocks affected are the `java` block in About Me and the plain block in Currently Learning.
