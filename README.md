@@ -19,9 +19,9 @@
 public class Pranav {
 
     String[] roles     = {"Full Stack Developer", "Java Enthusiast", "日本語学習者"};
-    String   location  = "India 🇮🇳  →  Japan 🇯🇵 (Goal)";
-    String[] languages = {"Java", "JavaScript", "SQL", "日本語 (N5 → N2)"};
-    String   currently = "Building full-stack projects & leveling up Japanese";
+    String   location  = "Bangalore 🇮🇳  →  Japan 🇯🇵 (Goal)";
+    String[] languages = {"Java", "JavaScript", "PHP", "SQL", "日本語 (N4 → N2)"};
+    String   currently = "Interning at Mosaique, building full-stack projects & leveling up Japanese";
 
     String[] lifeGoals = {
         "Land an IT job in Japan 🗾",
@@ -40,6 +40,10 @@ public class Pranav {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -48,6 +52,7 @@ public class Pranav {
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -56,15 +61,23 @@ public class Pranav {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### 🤖 AI Developer Tools
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=openai&logoColor=white)
+
 ---
 
 ## 💼 Experience
 
 | Period | Role | Company |
 |--------|------|---------|
+| Apr 2025 – Present | **Intern** | Mosaique, Bangalore |
 | Nov 2024 – Apr 2025 | **Full Stack Java Developer Intern** | Hexaware Technologies |
 | Sep 2022 – Nov 2022 | **Cloud Intern** | Aican Automate |
 
+> 🏢 At **Mosaique** — Currently contributing to full-stack development in Bangalore.
+>
 > 🏢 At **Hexaware** — Delivered 8+ full-stack features using React + Spring Boot Microservices, JWT auth, and participated in 12+ Agile sprint ceremonies.
 >
 > ☁️ At **Aican** — Built an Image Recognition System using Azure Computer Vision (95%+ accuracy) and deployed a static site on AWS with 99.9% uptime.
@@ -132,16 +145,17 @@ public class Pranav {
 
 ## 🇯🇵 Currently Learning
 
-```
+
 日本語 (Japanese) — JLPT Journey
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  N5  ████████░░░░  Studying now
-  N4  ░░░░░░░░░░░░  Next milestone
-  N3  ░░░░░░░░░░░░  Coming soon
-  N2  ░░░░░░░░░░░░  Dream goal 🎯
+N5  ████████████  ✅ Completed!
+N4  ████████░░░░  Studying now
+N3  ░░░░░░░░░░░░  Coming soon
+N2  ░░░░░░░░░░░░  Dream goal 🎯
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Goal: IT job in Japan 🗾
-```
+
+
 
 ---
 
